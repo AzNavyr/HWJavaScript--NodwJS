@@ -1,0 +1,29 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+        "eslint": "^8.29.0",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "2.8.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AzNavyr/HWJavaScript--NodwJS.git"
+    },
+    "scripts": {
+        "start": "node src/index.js",
+        "debugg": ""
+    },
+    "keywords": [
+        "test",
+        "7-2-nodejs"
+    ],
+    "bugs": {
+        "url": "https://github.com/AzNavyr/HWJavaScript--NodwJS.git"
+    },
+    "homepage": "https://github.com/AzNavyr/HWJavaScript--NodwJS.git",
+    "author": "Aznavyr",
+    "license": "ISC",
+    "description": "Configuretion for Node"
+}
